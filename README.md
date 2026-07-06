@@ -17,7 +17,7 @@ Python, FAISS/Chroma, LLM API, Streamlit/Flask
 
 ```bash
 pip install -r requirements.txt
-python app.py
+streamlit run app.py
 ```
 
 ## Live Demo
