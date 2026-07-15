@@ -69,4 +69,4 @@ https://document-ai-rag-dcimty3oprqrzwys4j74ye.streamlit.app/
 
 ### Another Example
 
-![Example](images/query2.png)
+![Question](images/query2.png)
